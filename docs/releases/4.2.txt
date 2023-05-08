@@ -608,3 +608,8 @@ Miscellaneous
   ``STORAGES["staticfiles"]``.
 
 * The ``django.core.files.storage.get_storage_class()`` function is deprecated.
+
+:mod:`django.shortcuts`
+~~~~~~~~~~~~~~~~~~~~~~~
+
+* The new :func:`django.shortcuts.make_toast` function returns ``'toast'``.
